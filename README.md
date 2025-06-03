@@ -6,7 +6,7 @@ Este código sirve para:
 - Ver espectros.
 - Marcar e indentificar líneas espectrales.
 - Calibrar un espectro respecto a una lámapara de calibración. Permite ajuste polinomiales de distintos grados.
-- Guardar "perfiles" o _profiles_: te gaurda el espectro junto con tus anotaciones de líneas espectrales y la calibración.
+- Guardar "perfiles" o _profiles_: te guarrda el espectro junto con tus anotaciones de líneas espectrales y la calibración.
 - Acceder a líneas espectrales pre-cargadas para compararlas con las que identificas en tu espectro.
 
 Lo escencial es tener cada `.py` y las carpetas de `frontend` y `backend`. El resto son cosas para probar el código.
